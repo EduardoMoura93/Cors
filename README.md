@@ -1,5 +1,4 @@
-## Cors
-Como liberar o cors em uma aplicação spring-boot
+## Como liberar o cors em uma aplicação spring-boot
 
 
 1) Criar uma classe que implementa o WebMvcConfigurer e adicionar o seguinte código:
